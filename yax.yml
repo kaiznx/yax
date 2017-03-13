@@ -1,0 +1,12 @@
+global:
+  home: $HOME
+
+github:
+  provider: git
+  param:
+    name: github.com/ympons/yaxconfig/github.yax
+
+zsh:
+  provider: git
+  param:
+    name: github.com/ympons/yaxconfig/zsh.yax
