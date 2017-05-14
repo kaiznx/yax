@@ -1,2 +1,2 @@
 # yax
-A tool for eager programmers ;D
+A tool for eager programmers :smile:
